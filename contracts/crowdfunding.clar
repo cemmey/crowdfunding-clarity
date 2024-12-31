@@ -1,5 +1,3 @@
-;; crowdfunding.clar
-
 ;; Constants
 (define-constant contract-owner tx-sender)
 (define-constant minimum-funding u1000000) ;; 1 STX = 1,000,000 microSTX
